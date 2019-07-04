@@ -1,0 +1,19 @@
+{
+  "name": "reckity",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:elrumordelaluz/reckity.git",
+  "author": "Lionel Tzatzkin <elrumordelaluz@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "flickity": "2.2.1",
+    "flickity-imagesloaded": "2.0.0",
+    "react": "16.8.6",
+    "react-dom": "16.8.6"
+  },
+  "peerDependencies": {
+    "flickity": "^2.2.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
